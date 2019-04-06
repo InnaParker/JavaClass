@@ -24,9 +24,9 @@ public class Repl78 {
 		dog1.name="Space";
 		dog1.color="Grey";
 		
-		dog1.play();
-		dog1.run();
 		dog1.bark();
+		dog1.run();
+		dog1.play();
 		
 		
 		Repl78 dog2=new Repl78();
@@ -35,9 +35,9 @@ public class Repl78 {
 		dog2.name="Spunky";
 		dog2.color="Brown";
 		
-		dog2.play();
-		dog2.run();
 		dog2.bark();
+		dog2.run();
+		dog2.play();
 		
 		Repl78 dog3=new Repl78();
 		
@@ -45,21 +45,21 @@ public class Repl78 {
 		dog3.name="Max";
 		dog3.color="Yellow";
 		
-		dog3.play();
-		dog3.run();
 		dog3.bark();
+		dog3.run();
+		dog3.play();
 }
 
 	void bark() {
-			
+		System.out.println(breed+" can bark");	
 	}
 
 	void run() {
-		System.out.println();	
+		System.out.println(breed+ " can run");	
 	}
 
 	void play() {
-		System.out.println();	
+		System.out.println(breed+ " can play");	
 	}
 	
 
