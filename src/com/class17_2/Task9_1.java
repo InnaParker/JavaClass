@@ -4,7 +4,13 @@ public class Task9_1 {
 
 	public static void main(String[] args) {
 
-		// Print the following pattern: 1 12 123 1234 12345
+		// Print the following pattern: 
+		//1 
+		//12 
+		//123 
+		//1234 
+		//12345
+		
 		Task9_1 demo=new Task9_1();
 		demo.printNumbers();
 

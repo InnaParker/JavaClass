@@ -1,12 +1,12 @@
 package com.class17_2;
 
-public class Task9_4 {
+public class ClockWithMethod {
 
 	public static void main(String[] args) {
 
 		// Clock
 
-		Task9_4 demo=new Task9_4();
+		ClockWithMethod demo=new ClockWithMethod();
 		demo.clock();
 	}
 
