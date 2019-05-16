@@ -12,7 +12,7 @@ public class LocalVariables {
 		System.out.println(name);
 	}
 	
-	public void  hello(String name)  //add parameter to the method in order to use name
+	public void  hello(String name)//add parameter to the method in order to use name
 	{
 		name="Jack";
 		System.out.println("Hello "+name);

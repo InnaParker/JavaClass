@@ -18,9 +18,9 @@ public class Repl102 {
 	  
 	public static void main(String[] args) {
 		
-		age=40;
-		name="John";
-		System.out.println();
+		m1(40, "John");
+		
+		
 
 	}
 	

@@ -8,7 +8,7 @@ public class Car {
 	int doors;
 	boolean engine;
 	
-	Car()  //Creating constructor. I initializes variables.
+	Car()  //Creating constructor. It initializes variables.
  	{
 		System.out.println("I am constructor");
 		System.out.println("Hello from constructor");
