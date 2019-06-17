@@ -16,10 +16,10 @@ public class Exsercise2 {
 		int mult=a*b;
 		int div=a/b;
 		
-		System.out.println("the sum of 2 numbers is " + sum);
-		System.out.println("the substraction of 2 numbers is " + sub);
-		System.out.println("the multiplication of 2 numbers is " + mult);
-		System.out.println("the division of 2 numbers is " + div);
+		System.out.println("The sum of 2 numbers is " + sum);
+		System.out.println("The substraction of 2 numbers is " + sub);
+		System.out.println("The multiplication of 2 numbers is " + mult);
+		System.out.println("The division of 2 numbers is " + div);
 		
 
 	}

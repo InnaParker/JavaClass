@@ -6,7 +6,7 @@ public class StringConcatenation {
 
 		String name = "John";
 
-		// MY name is John
+		// My name is John
 
 		System.out.println("My name is " + name);
 

@@ -3,8 +3,8 @@ package com.class02;
 public class ArithmeticOperators {
 	public static void main (String[] args) {
 		
-		//declare itn 2 variables and then perform:
-		//addition, subtruction, multiplication, division
+		//declare 2 int variables and then perform:
+		//addition, subtraction, multiplication, division
 		
 		int a=30;
 		int b=15;

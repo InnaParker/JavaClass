@@ -18,7 +18,7 @@ public class Repl05 {
 		  
 		  
 		  System.out.println(name);
-		  System.out.println("50"+iq);
+		  System.out.println(age+" "+iq);
 
 	}
 

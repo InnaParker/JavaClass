@@ -12,7 +12,7 @@ public class Repl03 {
 		boolean isTrue=false;
 	    double money=99999.99;
 	    
-	    System.out.println(money+" false");
+	    System.out.println(money+" "+isTrue);
 	    
 
 	}
